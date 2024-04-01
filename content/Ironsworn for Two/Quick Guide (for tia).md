@@ -10,9 +10,9 @@ Date: April 1, 2024
 There are 3 modes of gameplay (dm-guided, solo, or co-op) in Ironsworn. The game is made for a total of 4 people, although you can add more people if you modify the game a bit. 
 
 **Dice Needed:**
-	2 challenge dice (d10)
-	1 action die (d6)
-	1 oracle die (d10) (this can be a shared dice)
+- 2 challenge dice (d10)
+- 1 action die (d6)
+- 1 oracle die (d10) (this can be a shared dice)
 
 ## How To Play
 
@@ -24,66 +24,58 @@ To succeed a roll your action score must be higher than both challenge dice. To 
 
 [[Screenshot (391).png]]
 
-- Extreme Hit: two matchings yes 
-- Strong Hit: two yes
-- Weak Hit: one yes one no
-- Miss: two no
-- Extreme Miss: two matching no
+**Hits**: 
+- Extreme Hit - two matchings yes 
+- Strong Hit - two yes
+- Weak Hit - one yes one no
+- Miss - two no
+- Extreme Miss - two matching no
 
 [[Screenshot (390).png]]
 #### Roll Types
 
-Action Roll:
+**Action Roll**:
 - based on risky actions such as attacking, climbing, or healing an ally.
-
-Progress Roll: 
+**Progress Roll**: 
 - used to resolve a progress track
-
-Oracle Roll: 
+**Oracle Roll**: 
 - rolls that take place instead of a DM
-
-Progress Rolls:
+**Progress Rolls**:
 - rolls to complete a progress track
 - roll 2 challenge dice and your progress track value must exceed both
 
 [[Screenshot (388).png]]
 #### Move Types
 
-Adventure Moves - 
+**Adventure Moves**:
 - covers a variety of dangers
 - conducting investigations
 - traveling
 - making camp
 - healing
-
-Relationship moves -
+**Relationship moves**:
 - persuading others
 - building bonds with people/communities
 - resting within a community
 - aiding allies
 - initiating duels
-
-Combat moves -
+**Combat moves**:
 - used when fighting
-
-Suffer moves
+**Suffer moves**:
 - occur when enduring hardship,
 - physical harm
 - facing a dispiriting challenge
-
-Quest moves
+**Quest moves**:
 - stuff related to iron vows
 - marking progress on a sworn quest
 - improving character
-
-Fate Moves
+**Fate Moves**:
 - helps along the stories in replacement for a DM
-
-Progress Moves
-- Fulfill Your Vow to resolve a quest
-- Reach Your Destination to end your journey
-- End The Fight to decide the outcome of combat
-- Write Your Epilogue to retire from being an Ironsworn
+**Progress Moves**:
+- *Fulfill Your Vow* to resolve a quest
+- *Reach Your Destination* to end your journey
+- *End The Fight* to decide the outcome of combat
+- *Write Your Epilogue* to retire from being an Ironsworn
 
 
 ### Momentum
@@ -94,7 +86,7 @@ You can burn momentum by using your current momentum to cancel out your challeng
 
 [[Screenshot (392).png]]
 
-Resetting stats: 
+**Resetting stats**: 
 - No debilities: +2
 - One debility: +1
 - Two or more debilities: 0
@@ -102,38 +94,32 @@ Resetting stats:
 
 Progress tracks are used to track your progress on any challenges, relationships, or iron vows that your character has. If you are playing with others, be aware that some progress is shared between players. Decide who rolls beforehand lmao
 
-Swear an Iron Vow
+**Swear an Iron Vow**:
 - the challenges you overcome on your way to achieving your ultimate goal
-Undertake a journey
+**Undertake a journey**:
 - how far you have gone and how favorable hr travel has been
-Enter The Fray
+**Enter The Fray**:
 - advantage as you weaken and kill your enemies in combat
-Forge A Bond
+**Forge A Bond**:
 - tracks your relationship with a community/person on your journey
 
 ### Challenge Ranks
 
 Challenge Ranks are shared between many aspects of this game. Each rank represents how difficult a task is. The following list is from least to most difficult. For the tracks of bonds, you always shade in 1/4th of the box unless stated otherwise
 
-
-Troublesome
+**Troublesome**:
 - make three progress (full boxes)
 - 1 harm if enemy
-
-Dangerous
+**Dangerous**:
 - fill in 2 boxes (two progress)
 - 2 harm
-
-
-Formidable
+**Formidable**:
 - fill in 1 box (one progress)
 -  3 harm
-
-Extreme
+**Extreme**:
 - shade half a box (two ticks)
 - 4 harm
-
-Epic
+**Epic:**
 - shade 1/4th of the box (one tick)
 - 5 harm
 
