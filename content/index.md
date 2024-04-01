@@ -3,7 +3,10 @@ title: Welcome to Quartz
 ---
 [[Quick Guide (for tia)]]
 
-welcome!!
+welcome!! this is a website that took me like an hour to figure out so its not the best lol
 
-https://lh3.googleusercontent.com/pw/AP1GczP0IBf23lyKPgzQwpSPZkIGm8N3YmWQSnNFnr3VN2CmOcNIzpaAP0GWGYeERq6Xex1la8Gefc4do-gqVuS6PtRikqxs4bfnBCKtaNBepPbQwYett5_zoOqOta7Nu8s5E6wTD78fAPaBagoMtr5uaniq=w467-h526-s-no-gm?authuser=0
+i'll make it look a lot better later (aka probably never)
+
+i want my props tho cuz i can't believe i got this shit to work fr
+
 
