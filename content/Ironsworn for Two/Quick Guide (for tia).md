@@ -1,4 +1,12 @@
+---
+title: Quick Guide (for tia)
+draft: false
+tags:
+---
+ 
+ 
 Date: April 1, 2024
+
 
 There are 3 modes of gameplay (dm-guided, solo, or co-op) in Ironsworn. The game is made for a total of 4 people, although you can add more people if you modify the game a bit. 
 
