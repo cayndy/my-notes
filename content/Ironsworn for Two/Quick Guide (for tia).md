@@ -36,10 +36,13 @@ To succeed a roll your action score must be higher than both challenge dice. To 
 
 **Action Roll**:
 - based on risky actions such as attacking, climbing, or healing an ally.
+
 **Progress Roll**: 
 - used to resolve a progress track
+
 **Oracle Roll**: 
 - rolls that take place instead of a DM
+
 **Progress Rolls**:
 - rolls to complete a progress track
 - roll 2 challenge dice and your progress track value must exceed both
@@ -53,24 +56,30 @@ To succeed a roll your action score must be higher than both challenge dice. To 
 - traveling
 - making camp
 - healing
+
 **Relationship moves**:
 - persuading others
 - building bonds with people/communities
 - resting within a community
 - aiding allies
 - initiating duels
+
 **Combat moves**:
 - used when fighting
+
 **Suffer moves**:
 - occur when enduring hardship,
 - physical harm
 - facing a dispiriting challenge
+
 **Quest moves**:
 - stuff related to iron vows
 - marking progress on a sworn quest
 - improving character
+
 **Fate Moves**:
 - helps along the stories in replacement for a DM
+
 **Progress Moves**:
 - *Fulfill Your Vow* to resolve a quest
 - *Reach Your Destination* to end your journey
@@ -96,10 +105,13 @@ Progress tracks are used to track your progress on any challenges, relationships
 
 **Swear an Iron Vow**:
 - the challenges you overcome on your way to achieving your ultimate goal
+
 **Undertake a journey**:
-- how far you have gone and how favorable hr travel has been
+- how far you have gone and how favorable travel has been
+
 **Enter The Fray**:
 - advantage as you weaken and kill your enemies in combat
+
 **Forge A Bond**:
 - tracks your relationship with a community/person on your journey
 
@@ -110,15 +122,19 @@ Challenge Ranks are shared between many aspects of this game. Each rank represen
 **Troublesome**:
 - make three progress (full boxes)
 - 1 harm if enemy
+
 **Dangerous**:
 - fill in 2 boxes (two progress)
 - 2 harm
+
 **Formidable**:
 - fill in 1 box (one progress)
 -  3 harm
+
 **Extreme**:
 - shade half a box (two ticks)
 - 4 harm
+
 **Epic:**
 - shade 1/4th of the box (one tick)
 - 5 harm
