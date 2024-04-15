@@ -1,12 +1,15 @@
 ---
 title: Welcome to Quartz
 ---
-[[Quick Guide (for tia)]]
 
-welcome!! this is a website that took me like an hour to figure out so its not the best lol
+Day 1: [[Quick Guide (for tia)]] : April 1st, 2024
 
-i'll make it look a lot better later (aka probably never)
-
-i want my props tho cuz i can't believe i got this shit to work fr
+During this session we went over in the introductory section of the Ironsworn Rulebook
 
 
+Day 2: [[The Locations of the Iron Lands]] : April 4th, 2024
+
+During this session we went over the setting section of the Ironsworn Rulebook. We decided on a starting quest and location.
+
+
+Day 3: 
